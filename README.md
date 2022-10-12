@@ -69,7 +69,7 @@ php artisan serve
 ```
 
 ## 📝 License
-- Copyright © 2022 Tsaqib Soka.
+- Copyright  © 2022 Tsaqib Soka.
 - **Exbullience is open-sourced software licensed under the MIT license.**
 
 ------------
